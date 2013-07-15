@@ -1,0 +1,115 @@
+	body
+	{
+	background-color:#666666;
+	background-image:url(reWalls.jpg);
+	font-family:"Segoe Script";
+	color: #FF0;
+	font-size: 13px;
+	position: absolute;
+	top: auto;
+	right: auto;
+	}
+	h1
+	{
+	color:#600;
+	font:"Segoe UI Light";
+	font-size:16px;
+	position:absolute;
+	top:8px;
+	right:397px;
+	width: 122px;
+	height: 32px;
+	}
+	p
+	{
+	color:#CC3300;
+	font:"Segoe UI Light";
+	font-size:14px;
+	}
+    .top
+    {
+	position:absolute;
+	top:0%;
+	left:90%;
+	color: #C30;
+	font-family: "Segoe UI Light";
+	font-size: 14px;
+
+    }
+    .alert
+    {
+         color:red;
+    }
+    #friends
+    {
+         background-color:gainsboro;
+    }
+    #post_area
+    {
+        
+
+    }
+    #post_location
+    {
+        font-style: bold;
+        font-size:4px;
+    }
+    .post
+    {   background-color:#42FF65;
+        border:1px white;
+	
+    }
+   #textarea
+    {
+       overflow:hidden;
+    }
+	*/
+
+body,td,th {
+	color: #FFFF00;
+	background-image: url(reWalls.jpg);
+}
+h1 {
+	color: #6F0;
+}
+
+.registerMoblie{
+	font-family:"Segoe Script";
+	position:absolute;
+	top:28px;
+	left:801px;
+	width: 281px;
+	font-size: 13px;
+	color: #C30;
+}
+
+#mypic{
+	position:absolute;
+	top:auto;
+	left:auto;
+}
+</style>
+.saysomething {
+	font-size: 14px;
+}
+.saysomething {
+	font-size: 13px;
+}
+.whrru {
+	font-size: 13px;
+}
+
+.addproduct{
+	position:absolute;
+	top:auto;
+	left:auto;
+}
+.productid {
+	font-family: "Segoe UI Light";
+	color: #C30;
+}
+.productExtras {
+	font-family: "Segoe UI Light";
+	position: absolute;
+	top: auto;
+}

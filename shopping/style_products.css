@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+			body{
+				background-image:url(reWalls.jpg);
+				color:#C30;
+			}
+            .top
+            {
+                 position:absolute;
+                 top:0%;
+                 left:90%;
+
+            }
+            .alert
+            {
+                 color:red;
+            }
+            #friends
+            {
+                 background-color:gainsboro;
+            }
+            #post_area
+            {
+
+
+            }
+            #post_location
+            {
+                font-style: bold;
+                font-size:4px;
+            }
+            .post
+            {   background-color:#42FF65;
+                border:1px white;
+            }
+           #textarea
+            {
+               overflow:hidden;
+            }
+
+    .products {
+	font-family: "Segoe UI Light";
+	font-size: 13px;
+	color: #C30;
+}
+         
